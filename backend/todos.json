@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "todo": "Go to gym and swim",
+    "status": "complete"
+  },
+  {
+    "id": 2,
+    "todo": "study",
+    "status": "complete"
+  },
+  {
+    "id": 3,
+    "todo": "work",
+    "status": "complete"
+  }
+]
