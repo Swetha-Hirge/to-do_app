@@ -7,11 +7,11 @@
   {
     "id": 2,
     "todo": "study",
-    "status": "complete"
+    "status": "pending"
   },
   {
     "id": 3,
     "todo": "work",
-    "status": "complete"
+    "status": "pending"
   }
 ]
